@@ -10,7 +10,7 @@ body {
 
 .overlay {
     position: absolute;
-    background-color: rgba(0, 0, 0, .8)
+    background-color: rgba(0, 0, 0, .6)
 }
 
 .main-header {
@@ -41,7 +41,7 @@ body {
 }
 
 .slider {
-    background: url('https://image.ibb.co/c0oOVx/slider.jpg') no-repeat center center fixed;
+    background: url('../cvam/img/background.jpg') no-repeat center center fixed;
     background-size: cover;
     position: relative;
     color: #fff
@@ -456,7 +456,7 @@ body {
 }
 
 .team .card .card-img-top {
-    height: 230px !important;
+    height: auto !important;
     background-size: cover !important
 }
 
